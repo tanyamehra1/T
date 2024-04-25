@@ -1,0 +1,4 @@
+The data set is on playstore applications.
+On the 1st worksheet, I have done data cleaning (by removing blank cells and rows, using if function to make categories etc).
+On the 2nd worksheet, I have made pivot tables.
+on the third worksheet, I have made a dashboard using charts and slicers
